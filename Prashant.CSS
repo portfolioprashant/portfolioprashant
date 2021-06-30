@@ -1,0 +1,311 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    max-width: 65%;
+    margin: auto;
+    color: #333;
+    border: 2px solid;
+    align-items: center;
+    border-color: coral;
+    height: 1235px;
+    background-color: bisque;
+    
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.prashant{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+.name{
+    color: gray;
+    flex: 1;
+}
+.pro{
+    color: coral;
+    flex: 1;
+}
+.qualification{
+    letter-spacing: 1px;
+    flex: 1;
+}
+.vertical{
+    width: 40%;
+    height: 1060px;
+    border-right: 2px solid coral;
+    flex: 1;
+   
+}
+.tab{
+    border-top: 2px solid coral;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+.career{
+    border: 1px solid coral;
+    background-color: coral;
+    text-align: center;
+    margin-left: 5px;
+    flex: 1;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.objective{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    text-align-last: initial;
+    margin-right: 5px;
+    flex: 1;
+}
+.java{
+    border: 3px solid coral;
+    height: 1px;
+    width: 15px;
+    background-color: coral;
+    text-align: justify;
+    text-align-last: initial;
+    flex: 1;
+}
+.script{
+    border: 3px solid coral;
+    height: 1px;
+    width: 15px;
+    flex: 1;
+}
+.le{
+    width: 100%;
+    flex: 1;
+    
+}
+.ho{
+    margin-top: 20px;
+    width: 100%;
+    flex: 1;
+    
+}
+.car{
+    border: 1px solid coral;
+    background-color: coral;
+    text-align: center;
+    margin-left: 5px;
+    flex: 1;
+    margin-top: 25px;
+    margin-right: 5px;
+}
+.max{
+    border: 1px solid coral;
+    background-color: coral;
+    text-align: center;
+    margin-left: 5px;
+    flex: 1;
+    margin-top: 5px;
+    margin-right: 5px;
+    flex: 1;
+}
+.quali{
+    width: 60%;
+    height: 1060px;
+    margin-left: 15px;
+    flex: 1;
+}
+.de{
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+    border-bottom: 1px solid coral;
+    border-top: 1px solid coral;
+    flex: 1;
+}
+.tb{
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 5px;
+    flex: 1;
+}
+.col{
+    color: coral;
+    flex: 1;
+}
+.com{
+    margin-left: 5;
+    margin-right: 5px;
+    flex: 1;
+    
+}
+.year{
+    width: 30%;
+    text-align: justify;
+    text-align-last: initial;
+    flex: 1;
+}
+.bt{
+    width: 100%;
+    margin-top: 18px;
+    margin-left: 5px;
+    flex: 1;
+}
+.tog{
+    width: 100%;
+    margin-top: 18px;
+    margin-left: 5px;
+    flex: 1;
+
+}
+.sov{
+    text-align: justify;
+    text-align-last: initial;
+    margin-right: 5px;
+    flex: 1;
+}
+.date{
+    text-align: left;
+    flex: 1;
+    
+}
+.wid{
+    width: 70%;
+    flex: 1;
+}
+.ject{
+    
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 100px;
+    flex: 1;
+}
+.ad{
+    text-align: center;
+    border-right: 1px solid black;
+    height: 25px;
+    flex: 1;
+}
+.jio{
+    text-align: center;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    height: 75px;
+    word-wrap: normal;
+    width: 15%;
+    flex: 1;
+}
+.p{
+    text-align: center;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    height: 75px;
+    word-wrap: normal;
+    width: 15%;
+    flex: 1;
+}
+.t{
+    text-align: center;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    height: 75px;
+    word-wrap: normal;
+    width: 20%;
+    flex: 1;
+}
+.D{
+    text-align: center;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    height: 75px;
+    word-wrap: normal;
+    width: 20%;
+    flex: 1;
+}
+.R{
+    text-align: center;
+    border-top: 1px solid black;
+    height: 75px;
+    word-wrap: normal;
+    width: 30%;
+    align-items: center;
+    flex: 1;
+}
+.seminar{
+    border: 1px solid coral;
+    background-color: coral;
+    text-align: center;
+    margin-left: 5px;
+    flex: 1;
+    margin-top: 10px;
+    margin-right: 5px;
+
+}
+.certi{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1;
+   
+}
+span {
+    content: "&#42";
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    flex: 1;
+}
+.act{
+    text-align: justify;
+    text-align-last: initial;
+    margin-right: 5px;
+    flex: 1;
+}
+.sp{
+    width: 10%;
+    margin-left: 5px;
+    flex: 1;
+    
+}
+.train{
+    text-align: justify;
+    text-align-last: initial;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1;
+}
+.ind{
+    margin-left: 15px;
+    margin-top: 10px;
+    flex: 1;
+}
+.moc{
+    margin-left: 5;
+    margin-top: 15px;
+    margin-right: 5px;
+    flex: 1;
+}
+.date{
+    margin-top: 23px;
+    margin-left: 5px;
+    flex: 1;
+}
+.place{
+    margin-top: 5px;
+    margin-left: 5px;
+    flex: 1;
+}
+.singh{
+    text-align: right;
+    margin-top: 1px;
+    margin-right: 15px;
+    flex: 1;
+}
+
